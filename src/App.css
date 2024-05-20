@@ -1,38 +1,38 @@
-.App {
-  text-align: center;
+ 
+body {
+  margin: 0; 
+  padding: 0; 
+  background-color: #fff; 
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.login-page {
+ 
+  background-image: url('./images/internet-3563638.jpg');
+  background-size: cover; /* Cover the entire background */
+  background-position: center; /* Center the background image */
+}
+.signup-page {
+  /* Background image for login page */
+  background-image: url('./images/internet-3563638.jpg');
+  background-size: cover; /* Cover the entire background */
+  background-position: center; /* Center the background image */
+}
+.about-page {
+  /* Background image for login page */
+  background-image: url('./images/about33.jpg');
+  background-size: cover; /* Cover the entire background */
+  background-position: center; /* Center the background image */
+}
+.contact{
+  /* Background image for login page */
+  background-image: url('./images/about44.jpg');
+  background-size: cover; /* Cover the entire background */
+  background-position: center; /* Center the background image */
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.Addnote-page{
+  /* Background image for login page */
+  background-image: url('./images/notepad-3297994.jpg');
+  background-size: cover; /* Cover the entire background */
+  background-position: center; /* Center the background image */
 }
