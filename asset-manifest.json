@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/NotesApp/static/css/main.180dd441.css",
-    "main.js": "/NotesApp/static/js/main.b9d79f5a.js",
+    "main.css": "/NotesApp/static/css/main.40f954b6.css",
+    "main.js": "/NotesApp/static/js/main.a9669d3c.js",
     "static/media/internet-3563638.jpg": "/NotesApp/static/media/internet-3563638.2a8b9a9667cad46081f6.jpg",
     "static/media/notepad-3297994.jpg": "/NotesApp/static/media/notepad-3297994.c25f2cc480f861a4a297.jpg",
     "static/media/about44.jpg": "/NotesApp/static/media/about44.ca8b7a828c21637ed085.jpg",
     "static/media/ppic.jpeg": "/NotesApp/static/media/ppic.891cf1299351551aa270.jpeg",
     "index.html": "/NotesApp/index.html",
-    "main.180dd441.css.map": "/NotesApp/static/css/main.180dd441.css.map",
-    "main.b9d79f5a.js.map": "/NotesApp/static/js/main.b9d79f5a.js.map"
+    "main.40f954b6.css.map": "/NotesApp/static/css/main.40f954b6.css.map",
+    "main.a9669d3c.js.map": "/NotesApp/static/js/main.a9669d3c.js.map"
   },
   "entrypoints": [
-    "static/css/main.180dd441.css",
-    "static/js/main.b9d79f5a.js"
+    "static/css/main.40f954b6.css",
+    "static/js/main.a9669d3c.js"
   ]
 }
